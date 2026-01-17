@@ -1,8 +1,3 @@
-Below is the **final, copy-paste-ready `README.md`**, updated to **explicitly include `requirements.txt`** and aligned with how your repo actually works.
-
-Nothing else is added or removed beyond that.
-
----
 
 # Transformer From Scratch
 
